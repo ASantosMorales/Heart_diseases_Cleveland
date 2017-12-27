@@ -1,5 +1,5 @@
 # cat("\014") -----> To clear Console
-# rm(list = ls(all = TRUE)) -----> To clear All
+# rm(list = ls(all = TRUE)) -----> To clear all variables
 
 # Read data and labeling
 data <- read.csv("/home/a_santos/Documents/Research/Heart_diseases_Cleveland/Heart_diseases_Cleveland.data", header=FALSE, sep=",", na.strings = '?')
