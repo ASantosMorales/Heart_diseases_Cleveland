@@ -22,3 +22,5 @@ summary(data)
 # Correlation matriz (Pearson correlation coefficient)
 correlation <- cor(data)
 
+# NOT FINISHED YET
+# NOW, I'M WORKING IN THIS PROJECT
